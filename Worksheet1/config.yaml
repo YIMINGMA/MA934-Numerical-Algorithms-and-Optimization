@@ -1,0 +1,7 @@
+group1:
+   parameter1: 10
+   parameter2: This is some text
+
+group2:
+   parameter3: 10.0
+   parameter4: test.csv
